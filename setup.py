@@ -1,4 +1,3 @@
-from curses.panel import version
 from setuptools import setup #setup 파일이 있으면 pip로 설치 가능하다
 
 setup(
